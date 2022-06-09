@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I finally made my portfolio website 👋
 
 www.ashychiu.com
 
