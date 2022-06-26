@@ -7,7 +7,7 @@ www.ashychiu.com
 🌱 I’m currently learning Typescript & web scrapping with python  
 👯 I’m looking to collaborate on anything  
 🤔 I’m looking for help with getting my first tech job (so close yet so far!)  
-💬 Ask me about what it was like using notepad to code (and deploy website with FTP)  
+💬 Ask me about what it was like using notepad to code (and deploy websites with FTP)  
 📫 How to reach me: iykyk😆  
 ⚡ Fun fact: I foster cats without having one myself🐱  
 
