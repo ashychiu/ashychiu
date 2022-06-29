@@ -3,7 +3,7 @@
 www.ashychiu.com
 
 
-🔭 I’m currently working on rebuilding my previous project "What's Dinner Tonight" with React (& Material UI)  
+🔭 I’m currently working on rebuilding + upgrading my previous project ["What's Dinner Tonight"](https://whats-dinner-tonight.vercel.app/) with React & Material UI  
 🌱 I’m currently learning Typescript & web scrapping with python  
 👯 I’m looking to collaborate on anything  
 🤔 I’m looking for help with getting my first tech job (so close yet so far!)  
