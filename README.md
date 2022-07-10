@@ -8,7 +8,7 @@ www.ashychiu.com
 👯 I’m looking to collaborate on anything  
 🤔 I’m looking for help with getting my first tech job (so close yet so far!)  
 💬 Ask me about what it was like using notepad to code (and deploy websites with FTP)  
-📫 How to reach me: iykyk😆  
+📫 How to reach me: iykyk😆 (hint: in my portfolio☝🏼)
 ⚡ Fun fact: I foster cats without having one myself🐱  
 
 ![](https://komarev.com/ghpvc/?username=ashychiu)
