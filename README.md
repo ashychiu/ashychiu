@@ -3,7 +3,7 @@
 www.ashychiu.com
 
 
-🔭 I’m currently working on 
+🔭 I’m currently working on  
      > Converting existing projects to TypeScript  
      > Rebuilding my previous project ["What's Dinner Tonight"](https://whats-dinner-tonight.vercel.app/) with React & Material UI  
 🌱 I’m currently learning TypeScript & DSA  
