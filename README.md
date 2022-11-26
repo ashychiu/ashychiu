@@ -5,7 +5,7 @@ www.ashychiu.com
 
 🔭 I’m currently working on 
 - Converting existing projects to TypeScript  🔰 I’m currently working on
-- Rebuilding my previous project ["What's Dinner Tonight"](https://whats-dinner-tonight.vercel.app/) with React & Material UI  - [x] [Portfolio](https://www.ashychiu.com/portfolio)
+- Rebuilding my previous project ["What's Dinner Tonight"](https://whats-dinner-tonight.vercel.app/) with React & Material UI  - [x] [Portfolio](https://www.ashychiu.com/portfolio)  
 🌱 I’m currently learning TypeScript & DSA  
 👯 I’m looking to collaborate on anything  
 🤔 ~~I’m looking for help with getting my first tech job (so close yet so far!)~~ THANKFULLY I GOT A JOB! 🎉  
