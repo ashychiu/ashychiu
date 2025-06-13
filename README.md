@@ -3,7 +3,7 @@
 www.ashychiu.com
  
 📫 How to reach me: https://www.linkedin.com/in/ashychiu/   
-⚡ Fun fact: I fostered 8 cats without having one myself🐱 until...I foster failed! 🐈‍⬛
+⚡ Fun fact: I fostered 8 cats (one at a time) without having one myself🐱 until...I foster failed! 🐈‍⬛
 
 ![](https://komarev.com/ghpvc/?username=ashychiu)
 
